@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson1</string>
+    <string name="btn_Naria">Go to Narnia</string>
+    <string name="narnia_activity">Narnia</string>
+    <string name="btn_Back">Back to the real world :(</string>
+</resources>
